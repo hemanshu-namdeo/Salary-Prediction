@@ -9,8 +9,13 @@ The data for this model is relatively simplified as it has very few missing area
 The features in this data set are described as below:
 
 Years Experience: How many years of experience 
+
 Job Type: The position held (CEO, CFO, CTO, Vice President, Manager, Janitor, and senior or junior position)
+
 College Degree: Doctoral, Masters, Bachelors, High School, or None
+
 College Major: Biology, Business, Chemistry, Computer Science, Engineering, Literature, Math, Physics, or None
+
 Industry: Auto, Education, Finance, Health, Oil, Service, or Web
+
 Miles From Metropolis: How many miles away from a major city
